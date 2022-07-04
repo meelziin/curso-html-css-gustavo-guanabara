@@ -6,12 +6,19 @@
     padding: 0px;
 }
 
+div#main {
+    margin: 70px;
+    background-color: azure;
+    padding-bottom: 20px;
+}
+
 div {
     background-color: rgb(255, 255, 255);
 }
 
 main {
     text-align: center;
+    margin: 70px;
 }
 
 h1 {
@@ -25,7 +32,7 @@ h2 {
 
 p#guanabara {
     text-align: unset;
-    background-color: lightgray;
+    background-color: rgb(219, 218, 218);
     font-size: 26px;
     padding: 30px;
     margin: 30px;
@@ -41,13 +48,9 @@ p {
     padding-bottom: 20px;
 }
 
-div#gustavo {
-    padding-bottom: 30px;
-}
-
 p#mais {
     text-align: unset;
-    background-color: lightgray;
+    background-color: rgb(219, 218, 218);
     font-size: 26px;
     padding: 30px;
     margin: 30px;
@@ -58,8 +61,9 @@ a {
 }
 
 footer {
+    text-align: center;
     background-color: black;
     color: white;
-    padding: 20px;
-    font-size: 25px;
+    padding: 16px;
+    font-size: 22px;
 }
